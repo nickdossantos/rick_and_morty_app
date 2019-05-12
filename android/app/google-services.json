@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1043369728742",
+    "firebase_url": "https://rick-and-morty-app-8ee88.firebaseio.com",
+    "project_id": "rick-and-morty-app-8ee88",
+    "storage_bucket": "rick-and-morty-app-8ee88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043369728742:android:40bbbc681c8e801c",
+        "android_client_info": {
+          "package_name": "com.example.rick_and_morty_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043369728742-0vfnep3lvdced4s4rvaqjkd4hbd29smc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWfihB_xDsDXmjJ9ZjkxtYbjBchS4Z9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043369728742-0vfnep3lvdced4s4rvaqjkd4hbd29smc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043369728742-o4ff0lk7dmrag86dhbt77sjqprqm74qu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nickdos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
